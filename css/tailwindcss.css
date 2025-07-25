@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.bg-newsletter {
+    background-image: url('../images/news-letter-bg.png');
+    /* path relative to the *built CSS file* */
+}
