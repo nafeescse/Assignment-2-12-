@@ -4,3 +4,18 @@
     background-image: url('../images/news-letter-bg.png');
     /* path relative to the *built CSS file* */
 }
+
+.bg-bloom {
+    background-image: url('../images/deal-bloom.png');
+    /* path relative to the *built CSS file* */
+}
+
+.bg-ana {
+    background-image: url('../images/deal-ana.png');
+    /* path relative to the *built CSS file* */
+}
+
+.bg-zabo {
+    background-image: url('../images/deal-zabo.png');
+    /* path relative to the *built CSS file* */
+}
